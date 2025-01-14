@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/roksana-akter-18cse204-mymensingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roksana-akter-18cse204-mymensingh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/25434592/roksana-akter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/25434592/roksana-akter" height="30" width="40" /></a>
 <a href="https://kaggle.com/roksanaakter09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="roksanaakter09" height="30" width="40" /></a>
-<a href="https://medium.com/@roksanaakter2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@roksanaakter2000" height="30" width="40" /></a>
+<a href="https://medium.com/@Roksana25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@roksanaakter2000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
