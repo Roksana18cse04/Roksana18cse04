@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roksan Akter</h1>
 <h3 align="center">A passionate Data Analysis from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Object Detection Image**
+- 🔭 I’m currently working on **Data Analysis Project :Criket Analysis**
 
 - 🌱 I’m currently learning **Data Engineering**
 
