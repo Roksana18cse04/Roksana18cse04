@@ -102,7 +102,7 @@ Pushing boundaries in multi-agent systems, automation, and applied machine learn
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roksana18cse04&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roksana18cse04&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roksana18cse04&layout=compact&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roksana18cse04&theme=radical" alt="GitHub Streak Stats" />
 
