@@ -52,9 +52,9 @@ Pushing boundaries in multi-agent systems, automation, and applied machine learn
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
-    <img src="[https://seeklogo.com/images/P/power-bi-logo-0BFB06ED8C-seeklogo.com.png](https://www.bing.com/th/id/OIP.Oxo-u9GMK3zbEM5h-FiVnQHaEK?w=260&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2)" alt="Power BI" width="40" height="40"/>
-  </a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+</a>
 </p>
 ---
 
