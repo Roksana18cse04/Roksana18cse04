@@ -11,10 +11,6 @@ Turning <b>data into intelligence</b> and <b>intelligence into products</b>.
 
 ---
 
-[GitHub Profile](http://127.0.0.1:8000/redirect?target=github)  
-[LinkedIn Profile](http://127.0.0.1:8000/redirect?target=linkedin)
-
-
 ## 💼 What I Do
 
 - 🤖 Generative AI: Text-to-Image, AI Video, TTS, MusicGen  
@@ -131,14 +127,23 @@ Turning <b>data into intelligence</b> and <b>intelligence into products</b>.
 </p>
 
 ---
-
 ## 👀 Profile Insights
 
+[GitHub Profile](https://roksana18cse04-1.onrender.com/redirect?target=github)  
+[LinkedIn Profile](https://roksana18cse04-1.onrender.com/redirect?target=linkedin)
+
 <p align="center">
+  <!-- Live profile views badge from Render tracker -->
+  <img src="https://roksana18cse04-1.onrender.com/views.svg" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <!-- Static Komarev profile views badge -->
   <img src="https://komarev.com/ghpvc/?username=Roksana18cse04&label=Profile%20Views&color=ff00ff&style=for-the-badge" alt="Profile views"/>
 </p>
 
 <p align="center">
+  <!-- GitHub profile summary card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roksana18cse04&theme=tokyonight" />
 </p>
 
