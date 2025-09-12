@@ -34,7 +34,7 @@ Turning <b>data into intelligence</b> and <b>intelligence into products</b>.
 ## 📄 Resume
 
 <p align="center">
-  <a href="./resume.pdf" target="_blank">
+  <a href="./Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Download Resume" />
   </a>
 </p>
