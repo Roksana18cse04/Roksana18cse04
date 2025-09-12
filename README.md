@@ -11,6 +11,10 @@ Turning <b>data into intelligence</b> and <b>intelligence into products</b>.
 
 ---
 
+[GitHub Profile](http://127.0.0.1:8000/redirect?target=github)  
+[LinkedIn Profile](http://127.0.0.1:8000/redirect?target=linkedin)
+
+
 ## 💼 What I Do
 
 - 🤖 Generative AI: Text-to-Image, AI Video, TTS, MusicGen  

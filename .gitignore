@@ -1,0 +1,8 @@
+# FastAPI / Python
+*.db
+instance/
+*.sqlite3
+
+# Virtual environments
+.venv/
+vev/
