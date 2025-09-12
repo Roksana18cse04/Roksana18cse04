@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hey, I’m Roksana Akter</h1>
 <h3 align="center">🔮 Generative AI Architect | Voice & Vision Systems Specialist</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Roksana18cse04&label=Profile%20Views&color=ff00ff&style=for-the-badge" alt="Profile views"/>
+</p>
 
 <p align="center">
 Building multi-agent AI systems that <b>think, talk, and create</b>.<br/>
