@@ -22,7 +22,7 @@ Turning <b>data into intelligence</b> and <b>intelligence into products</b>.
 ---
 
 
-## 🛠️ Projects I’ve Led
+## 🛠️ Projects I’ve Developed
 
 - 🎤 **InPrepAI** – AI mock interview platform with dynamic Q&A generation  
 - 📞 **AI Call Assistant** – Voice AI agent integrated with HighLevel, Vapi & Make  
